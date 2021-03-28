@@ -150,6 +150,13 @@ section.home
 .btn:hover {
   transform: scale(0.88);
 }
+footer {
+  text-align: center;
+  position: absolute;
+  left: 500px;
+ 
+  bottom: 10px;
+}
 .services
 {
   display: grid;
@@ -356,6 +363,12 @@ section.home
   .contact-info .contact-icon
   {
    max-width: 30px;
+  }
+  footer 
+  {
+    
+   text-align: center;
+    left: 60px;
   }
   
 }
